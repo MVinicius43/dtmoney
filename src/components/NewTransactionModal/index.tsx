@@ -7,7 +7,7 @@ interface NewTransactionModalProps {
 }
 
 export function NewTransactionModal({isOpen, onRequestClose}: NewTransactionModalProps) {
-    // TESTANDO PULL REQUEST (MERGE REQUEST)
+    
     return (
         <Modal isOpen={isOpen}
               onRequestClose={onRequestClose}

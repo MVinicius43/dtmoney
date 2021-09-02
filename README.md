@@ -1,2 +1,7 @@
 # dtmoney
-Web Application developed with ReactJS in with the user can control his monthly transactions.
+Web Application in with the user can control his monthly transactions.
+
+-> Techs:
+
+* ReactJS
+* TypeScript
